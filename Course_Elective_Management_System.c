@@ -71,7 +71,7 @@ void close_project(void)
 {
 
     system("color F");
-    printf("\n\n\n\nCredits :: DEV BACHANI, CHINTAN DETROJA AND DEV PATEL\nGuidance :: MALARAM SIR ");
+    printf("\n\n\n\nCredits :: DEV BACHANI");
     printf("\n\n\n\n\n\n\n\n");
     printf("Closing");
     for (int i = 0; i <= 7; i++)
@@ -603,7 +603,3 @@ menu_repeat:
 }
 
 
-//allotment
-//swapping all 3
-//choice filling
-//search student
